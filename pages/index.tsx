@@ -4,7 +4,7 @@ import { services } from "../data";
 
 export default function Home() {
   return (
-    <div className="flex flex-col px-6 pt-1 Poppins">
+    <div className="flex flex-col flex-grow px-6 pt-1 Poppins">
       <h5 className="my-3 font-medium">
         I am a very passionate Software Engineer with a strong CS background.
         Having developed various web projects, It's safe to say that I am very
@@ -12,7 +12,7 @@ export default function Home() {
         projects so I am familiar with many technologies.
       </h5>
       <div
-        className="p-4 mt-5 bg-gray-300"
+        className="flex-grow p-4 mt-5 bg-gray-300 "
         style={{ marginLeft: "-1.5rem", marginRight: "-1.5rem" }}
       >
         <h6>What I Offer</h6>

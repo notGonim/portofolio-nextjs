@@ -9,7 +9,7 @@ export const services: IServices[] = [
   {
     title: "Frontend Dev",
     about:
-      "Frontend Engineer who can build a beautiful and scalable  SPA using <b>HTML</b> ,<b>CSS</b>,<b>JS</b>,<b>React</b>",
+      "Frontend Engineer who can build a beautiful and scalable  SPA using <b>HTML</b> <b>CSS</b><b>JS</b> and <b>React</b>",
     Icon: RiComputerLine,
   },
   {
